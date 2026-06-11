@@ -13,7 +13,7 @@
  }
  ],
  "env": {
- "DATABASE_URL": "@database_url",
- "API_KEY": "@api_key"
+ "DATABASE_URL": "mongodb+srv://socialadmin:rajesh123@cluster0.0apmee2.mongodb.net/?appName=Cluster0",
+ "API_KEY": "http://localhost:5000/api"
  }
 }
