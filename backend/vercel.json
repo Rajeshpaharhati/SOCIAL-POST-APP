@@ -13,6 +13,6 @@
  }
  ],
  "env": {
- "API_KEY": "http://localhost:5000/api"
+ "API_KEY": "https://social-post-app-6jw2.onrender.com/api"
  }
 }
